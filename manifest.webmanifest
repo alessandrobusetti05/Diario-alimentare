@@ -1,0 +1,17 @@
+{
+  "name": "Diario alimentare",
+  "short_name": "Diario",
+  "description": "Segui il tuo piano alimentare, spunta i pasti, controlla calorie e macro. I dati restano sul telefono.",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f3ee",
+  "theme_color": "#2f7d57",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

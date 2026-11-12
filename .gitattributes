@@ -1,0 +1,4 @@
+# Fine riga uniformi (LF) per tutti i file di testo, anche lavorando da Windows
+* text=auto eol=lf
+*.png binary
+*.pdf binary

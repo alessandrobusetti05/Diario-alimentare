@@ -1,0 +1,20 @@
+# --- Dati personali: MAI nel repository (il repository è pubblico) ---
+# Documenti di progetto, prototipo con il piano reale, corpus dei piani
+docs/
+# PDF dei piani e archivi che li contengono
+*.pdf
+*.zip
+# Piani reali convertiti in JSON e backup esportati dall'app
+privato/
+*.privato.json
+diario-backup-*.json
+
+# --- Segreti ---
+.env
+
+# --- Strumenti ---
+node_modules/
+test-results/
+playwright-report/
+.DS_Store
+Thumbs.db

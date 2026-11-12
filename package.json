@@ -1,0 +1,11 @@
+{
+  "name": "diario-alimentare",
+  "version": "0.0.1",
+  "private": true,
+  "description": "PWA per registrare i pasti seguendo il piano alimentare. Dati solo sul telefono.",
+  "type": "module",
+  "scripts": {
+    "serve": "node tools/serve.mjs",
+    "test": "node --test tests/"
+  }
+}
